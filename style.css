@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+.form{
+    
+    margin:  0 auto;
+    border: 2px solid blue;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color: white
+}
+.text{
+    text-align: center;
+    padding-top: 50px;
+    background-color: blue;
+    color: white;
+}
+.input{
+    width: 80%;
+    height: 50px;
+    background-color: white;
+    outline: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.button{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+}
